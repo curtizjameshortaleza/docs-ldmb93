@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-550mux.radarsatu88.shop/sitemap.xml
